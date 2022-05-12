@@ -1,0 +1,48 @@
+.about-head{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: lightpink;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.inside1{
+  font-size: 20px;
+  color: brown;
+  text-align: justify;
+}
+.round1 img {
+  height: 250px;
+  width: 250px;
+  border-radius: 200px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 50px;
+}
+.inside2{
+    font-size: 20px;
+    color: brown;
+    text-align: justify;
+  }
+  .round2 img {
+    height: 250px;
+    width: 250px;
+    border-radius: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px;
+  }
+  .inside3{
+    font-size: 20px;
+    color: brown;
+    text-align: 2ustify;
+  }
+  .round3 img {
+     height: 250px;
+     width: 250px;
+     border-radius: 200px;
+     margin-left: 50px;
+     margin-right: 50px;
+     padding: 20px;
+  }
