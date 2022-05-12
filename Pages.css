@@ -1,0 +1,42 @@
+.n{
+    display: flex;
+    list-style-type: none;
+   font-family: cursive;
+   color: royalblue;
+   } 
+  .n ul{
+    padding: 10px;
+  }
+  .n li{
+    padding: 50px;
+  }
+  .v{
+    display: flex;
+    list-style-type: none;
+    font-family: cursive;
+  } 
+  .v ul{
+    padding: 10px;
+  }
+  .v li{
+    padding: 20px;
+  }
+  .t{
+     margin: 20px;
+    color:black;
+    text-align: center;
+  }
+  .txt{
+      margin: 20px;
+      color: rgb(80, 97, 92);
+      background-color: burlywood; 
+      text-align: center;     
+  }
+  .container{
+      display: grid;
+      color: brown;
+      border-color: rgb(11, 156, 112);
+      text-align: center;
+      box-sizing: border-box;
+      background-color: aquamarine;
+  }
