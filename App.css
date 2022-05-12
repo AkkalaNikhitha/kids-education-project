@@ -1,0 +1,30 @@
+.grid{
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+.nav ul li{
+  display: inline-flex;
+  margin: 30px;
+  padding: 10px;
+  background-color: aquamarine;
+  font-size: larger;
+  font: 35px;
+}
+.nav{
+  display: flex;
+  list-style-type: none;
+  margin:30px;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+} 
+.nav ul{
+  padding: 10px;
+}
+.head{
+  margin:30px;
+  padding: 10px;
+}
+.nav li{
+  padding: 20px;
+}
