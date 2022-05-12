@@ -1,0 +1,27 @@
+.main-head{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    background-color: lightcoral;
+}
+.inside{
+    margin: 30px;
+    padding: 20px;
+    color: rgb(150, 63, 5);
+    box-sizing: border-box;
+    text-align: justify;
+}
+#button{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 50%;
+}
+.round img {
+    height: 250px;
+    width: 250px;
+    border-radius: 200px;
+    padding: 40px;
+}
