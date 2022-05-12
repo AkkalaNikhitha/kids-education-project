@@ -1,0 +1,30 @@
+.child{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: lightgreen;
+    font-size: medium;
+}
+.child1{
+    float: left;
+    text-align: justify;
+    color: lightcoral;
+}
+form input{
+    color: aquamarine;
+    background-color:lightsalmon;
+    cursor: pointer;
+    font-style: italic;
+    width: 200px;
+}
+form h2{
+    text-align: right;
+}
+.form {
+     width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 20px; 
+ } 
